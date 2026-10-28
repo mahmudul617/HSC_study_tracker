@@ -1,0 +1,69 @@
+{
+  "subjects": [
+    {
+      "id": "ban-1",
+      "group": "common",
+      "name_bn": "বাংলা ১ম পত্র",
+      "name_en": "Bangla 1st Paper",
+      "code": "101",
+      "marks": "100 Marks",
+      "confidence": "Medium",
+      "chapters": [
+        {
+          "no": 1,
+          "title_bn": "অপরিচিতা - শরৎচন্দ্র চট্টোপাধ্যায়",
+          "in_syllabus": true,
+          "verified": "Verified",
+          "topics": [
+            { "title_bn": "লেখক পরিচিতি ও প্রেক্ষাপট" },
+            { "title_bn": "মূল গল্প পাঠ ও বিশ্লেষণ" },
+            { "title_bn": "অনুধাবনমূলক প্রশ্ন ও সৃজনশীল" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eng-1",
+      "group": "common",
+      "name_bn": "ইংরেজি ১ম পত্র",
+      "name_en": "English 1st Paper",
+      "code": "107",
+      "marks": "100 Marks",
+      "confidence": "Medium",
+      "chapters": [
+        {
+          "no": 1,
+          "title_bn": "Unit 1: People or Institutions Making History",
+          "in_syllabus": true,
+          "verified": "Verified",
+          "topics": [
+            { "title_bn": "Lesson 1: The Unforgetable History" },
+            { "title_bn": "Lesson 2: Nelson Mandela" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ict-1",
+      "group": "common",
+      "name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "name_en": "Information and Communication Technology",
+      "code": "275",
+      "marks": "75 Marks",
+      "confidence": "Medium",
+      "chapters": [
+        {
+          "no": 1,
+          "title_bn": "অধ্যায় ১: তথ্য ও যোগাযোগ প্রযুক্তি: বিশ্ব ও বাংলাদেশ প্রেক্ষাপট",
+          "in_syllabus": true,
+          "verified": "Verified",
+          "topics": [
+            { "title_bn": "গ্লোবাল ভিলেজ" },
+            { "title_bn": "ভার্চুয়াল রিয়েলিটি" },
+            { "title_bn": "কৃত্রিম বুদ্ধিমত্তা (AI)" }
+          ]
+        }
+      ]
+    }
+  ]
+}
